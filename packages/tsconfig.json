@@ -1,0 +1,11 @@
+{
+  "files": [],
+  "references": [
+    { "path": "button" }
+
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "composite": true
+  }
+}
